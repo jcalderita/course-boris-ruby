@@ -1,0 +1,4 @@
+puts "".empty?
+
+puts "".nil?
+
