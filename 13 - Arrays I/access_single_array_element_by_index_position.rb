@@ -11,7 +11,6 @@ puts fruits[-2]
 puts fruits[-4]
 p fruits[-100]
 
-
 puts fruits.[](0)
 puts fruits.[](-1)
 p fruits.[](-15)
